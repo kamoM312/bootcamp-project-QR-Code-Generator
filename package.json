@@ -1,18 +1,17 @@
 {
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^9.2.16",
+    "inquirer": "^9.3.7",
     "qr-image": "^3.2.0"
   },
-  "name": "2.4-qr-code-project",
+  "name": "qr-code-generator",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Kamogelo Malema",
   "license": "ISC",
-  "description": ""
+  "description": "Program generates a QR code for a link "
 }
